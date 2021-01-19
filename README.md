@@ -1,7 +1,9 @@
 # Maximum-Profit-Producing-Stocks-Simulator
 
-• Formulated an algorithm that chooses the stocks one could have invested in to generate maximum profits by using data from the Bloomberg Terminal
-• Implemented the aforementioned algorithm and created a public domain website using HTML, Javascript, CSS and Java Swing/AWT 
-
-Only the algorithm will be posted as the interface is proprietary and is going to go live soon.
-
+Developed architecture for preprocessing and analysis of 7 years of historical US stock market data.
+Extracted information from raw data files based on field length specifications available on US Stock Exchange for multiple years and file formats with nanosecond granularity.
+Conducted stock market data analysis and generated visualization and report.
+Proposed using unsupervised learning/clustering on large-scale unlabeled stock market data for anomaly detection and general market analysis in absence of labels.
+Languages : JAVA, Apache Spark
+Tools/IDE : IntelliJ Idea, JAVA SDK/ JDK, JAVA JRE, Git, Maven, Linux
+Libraries : Apache Spark, PySpark
