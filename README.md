@@ -7,3 +7,6 @@ Proposed using unsupervised learning/clustering on large-scale unlabeled stock m
 Languages : JAVA, Apache Spark
 Tools/IDE : IntelliJ Idea, JAVA SDK/ JDK, JAVA JRE, Git, Maven, Linux
 Libraries : Apache Spark, PySpark
+
+
+Note: GUI IN PROGRESS
